@@ -1,0 +1,9 @@
+Flask
+Flask-JWT-Extended
+Flask-SQLAlchemy
+flask-cors
+psycopg2
+jinja2
+werkzeug
+python-dotenv
+flask_migrate

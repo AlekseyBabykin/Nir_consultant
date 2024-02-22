@@ -1,0 +1,4 @@
+.navbar-collapse.collapsing {
+    height: auto;
+    transition: height 0.35s ease;
+}
